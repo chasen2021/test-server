@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <h1>Shut up bitch</h1>
       <p>Why shoud you shut up?</p>
-      <br></br>
       <p>Its simple, becuase you are a bitch</p>
     </div>
   );
