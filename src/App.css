@@ -1,6 +1,13 @@
-.App {
+.app{
+  margin:0;
+  padding:0;
+  background-color: gray;
   text-align: center;
+
 }
-body{
-  background-color: lightblue;
+ .hemp {
+  color: white
+
+
+
 }
