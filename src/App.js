@@ -27,9 +27,12 @@ class App extends React.Component{
         
         
         <br/>
-        <h1 class = 'header'>Press the Button
-          <Badge variant = 'success'>Now</Badge>
+        <h1 class = 'header'>Dumb Dairy
+          <Badge variant = 'success'>Write down your feelings now</Badge>
         </h1>
+        <br/>
+        <p>The Dumb dairy is a helpful tool to vent your frustration! angry at work? write about it here, press submit, and get a delightful response.<p/>
+        
         <br/>
         <Button variant = 'outline-warning' size = 'lg' onClick={this.onPush}>Press</Button>
         <br/>
