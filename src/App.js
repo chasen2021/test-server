@@ -15,7 +15,7 @@ class App extends React.Component{
 
   onPush = () => {
     this.setState({
-      text:"Shut up Cracker"
+      text:"Stop complaining you dumb bitch"
     })
   }
 
@@ -32,9 +32,10 @@ class App extends React.Component{
         </h1>
         <br/>
         <p>The Dumb dairy is a helpful tool to vent your frustration! angry at work? write about it here, press submit, and get a delightful response.<p/>
-        
         <br/>
-        <Button variant = 'outline-warning' size = 'lg' onClick={this.onPush}>Press</Button>
+        <textarea> <textarea/>
+        <br/>
+        <Button variant = 'outline-warning' size = 'lg' onClick={this.onPush}>Submit</Button>
         <br/>
         <br/>
         <br/>
